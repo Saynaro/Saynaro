@@ -1,12 +1,13 @@
-# 👋 Salut, moi c'est Saynaro Khalid! 
+# 👋 Salut, moi c'est Saynaro Khalid ! 
 
 ### 🚀 Développeur Fullstack | À la recherche de nouvelles opportunités
-**Disponible immédiatement pour un poste en CDI ou Freelance**
+📍 **Basé à Nice** | Mobile sur : **Monaco, Antibes, Valbonne, Sophia Antipolis, Cagnes-sur-Mer**
+💼 **Disponible immédiatement pour un poste en CDI ou Freelance**
 
 ---
 
 ## 🛠 Sur quoi je travaille en ce moment ?
-- 💻 **Projet Actuel :** Je développe un **SaaS Task Manager** (Gestionnaire de tâches ultra-performant) en utilisant la stack moderne pour optimiser la productivité.
+- 💻 **Projet Actuel :** Je développe un **SaaS Task Manager** (Gestionnaire de tâches ultra-performant) en utilisant la stack moderne для оптимизации продуктивности.
 - 🔭 Je perfectionne mes compétences en **Architecture logicielle** et en **SaaS Scalability**.
 
 ---
@@ -15,9 +16,9 @@
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **SaaS Task Manager** | Plateforme de gestion de tâches avec abonnements et espaces collaboratifs. | `React`, `Prisma`, `PostgreSQL` |
-| **E-Commerce & Admin** | Boutique complète avec gestion des stocks, commandes et dashboard admin. | `Node.js`, `Express`, `JWT` |
-| **GAMEGUIDE** | Site communautaire de guides de jeux avec une UX fluide et dynamique. | `GSAP`, `React`, `Tailwind` |
+| **SaaS Task Manager** | Plateforme de gestion de tâches avec abonnements и espaces collaboratifs. | `React`, `Prisma`, `PostgreSQL` |
+| **E-Commerce & Admin** | Boutique complète avec gestion des stocks, commandes и dashboard admin. | `Node.js`, `Express`, `JWT` |
+| **GAMEGUIDE** | Site communautaire de guides de jeux avec une UX fluide и dynamique. | `GSAP`, `React`, `Tailwind` |
 
 ---
 
@@ -31,7 +32,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### ⚙️ Backend & Database 
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -55,48 +56,40 @@
 ## 📊 Activité & Performance GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub" height="160px"/>
 
   <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=6&locale=fr" height="150px"/>
 </p>
 
 ---
 
 ## 🧠 Profil Technique
 
-- 💼 **Développeur Fullstack JavaScript** avec une forte orientation produit  
-- ⚙️ Expérience dans la conception d’applications **SaaS scalables**  
-- 🧩 Bonne maîtrise de l’architecture backend et des APIs sécurisées  
-- 🎯 Focus sur la **performance, UX et maintenabilité du code**  
+- 💼 **Développeur Fullstack JavaScript** avec une forte orientation produit  
+- ⚙️ Expérience dans la conception d’applications **SaaS scalables**  
+- 🧩 Bonne maîtrise de l’architecture backend и APIs sécurisées  
+- 🎯 Focus sur la **performance, UX et maintenabilité du code**  
 
 ---
 
 ## 🚀 Ce que j’apporte à une équipe
 
-- Développement de features **end-to-end (Frontend + Backend)**  
-- Mise en place d’architectures propres et évolutives  
-- Optimisation des performances et de l’expérience utilisateur  
-- Collaboration efficace en environnement Agile  
-
----
-
-## 📌 Actuellement
-
-- 🔭 Développement d’un **SaaS Task Manager** avec gestion d’abonnements  
-- 📚 Approfondissement en **scalabilité et architecture logicielle**  
-- 💡 Ouvert aux opportunités **CDI / Freelance immédiatement**  
+- **Développement End-to-End** : Capacité à livrer des fonctionnalités complètes du design DB au Frontend.  
+- **Clean Architecture** : Mise en place de structures de code propres, lisibles и évolutives.  
+- **Product Mindset** : Je ne code pas juste des features, je construis des solutions pour les utilisateurs.  
+- **Agilité** : Collaboration fluide и communication transparente au sein d'une équipe.  
 
 ---
 
 ## 📧 Me contacter pour une opportunité
 Je suis ouvert aux discussions concernant des rôles de **Développeur Fullstack / Frontend / Backend**.
 
-- **LinkedIn:** https://www.linkedin.com/in/khalid-sainaro
-- **Portfolio:** https://saynaro.github.io/Portfolio/
+- **LinkedIn:** [linkedin.com/in/khalid-sainaro](https://www.linkedin.com/in/khalid-sainaro)
+- **Portfolio:** [saynaro.github.io/Portfolio/](https://saynaro.github.io/Portfolio/)
 - **Email:** khalid.cizdoev777@gmail.com
 
 ---
