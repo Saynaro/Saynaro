@@ -1,8 +1,9 @@
 # 👋 Salut, moi c'est Saynaro Khalid ! 
 
 ### 🚀 Développeur Fullstack | À la recherche de nouvelles opportunités
-📍 **Basé à Nice** | Mobile sur : **Monaco, Antibes, Valbonne, Sophia Antipolis, Cagnes-sur-Mer**
-💼 **Disponible immédiatement pour un poste en CDI ou Freelance**
+📍 **Basé à Nice** <br>
+🚗 **Mobile sur :** Monaco, Antibes, Valbonne, Sophia Antipolis, Cagnes-sur-Mer <br>
+💼 **Disponible immédiatement :** CDI ou Freelance
 
 ---
 
