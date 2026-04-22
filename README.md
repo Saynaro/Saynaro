@@ -25,6 +25,8 @@
 
 ### 🎨 Frontend & Design
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -46,6 +48,7 @@
 
 ## 📈 Mes Statistiques GitHub
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&locale=fr&hide_rank=true&layout=compact&hide=stars,issues,prs,contribs" alt="Stats de Saynaro" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&locale=fr" alt="Langages" height="180px" width="600px" />
 </p>
 
