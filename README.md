@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 | **SaaS Task Manager** | Plateforme de gestion de tâches avec abonnements и espaces collaboratifs. | `React`, `Prisma`, `PostgreSQL` |
 | **E-Commerce & Admin** | Boutique complète avec gestion des stocks, commandes и dashboard admin. | `Node.js`, `Express`, `JWT` |
-| **GAMEGUIDE** | Site communautaire de guides de jeux avec une UX fluide и dynamique. | `GSAP`, `React`, `Tailwind` |
+| **GAMEGUIDE** | Site communautaire de guides de jeux avec une UX fluide и dynamique. | `Vanilla JS`, `MariaDB`, `Node.js` |
 
 ---
 
