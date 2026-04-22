@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Saynaro ! 
+# 👋 Salut, moi c'est Saynaro Khalid! 
 
 ### 🚀 Développeur Fullstack | À la recherche de nouvelles opportunités
 **Disponible immédiatement pour un poste en CDI ou Freelance**
@@ -41,7 +41,7 @@
 
 ### 🔐 Sécurité & Intégration
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/-OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+![OAuth](https://img.shields.io/badge/-OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
