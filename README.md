@@ -48,8 +48,8 @@
 
 ## 📈 Mes Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&locale=fr&hide_rank=true&layout=compact&hide=stars,issues,prs,contribs" alt="Stats de Saynaro" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&locale=fr" alt="Langages" height="180px" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_rank=true&layout=compact&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub" alt="Stats de Saynaro" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&locale=fr" alt="Langages" height="150px" />
 </p>
 
 ---
