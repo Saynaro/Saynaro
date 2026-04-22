@@ -57,9 +57,9 @@
 ## 📊 Activité & Performance GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub" height="160px"/>
 
-  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="155px"/>
 </p>
 
 <p align="center">
