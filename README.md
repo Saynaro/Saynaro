@@ -46,40 +46,43 @@
 
 ---
 
-## 📊 Statistiques GitHub & Activité
+## 📊 Activité & Performance GitHub
 
 <p align="center">
-  <!-- Stats principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&custom_title=📊%20Statistiques%20GitHub" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="160px"/>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <!-- Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Langages%20Principaux" height="160px"/>
-
-  <!-- Graph activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saynaro&theme=react-dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150px"/>
 </p>
 
 ---
 
-## 🧠 Analyse du Profil
+## 🧠 Profil Technique
 
-- 🔥 **Régularité :** Contributions fréquentes avec une activité continue  
-- 📦 **Projets privés :** Inclus dans les statistiques (activité réelle)  
-- 🛠 **Stack principale :** Écosystème JavaScript Fullstack  
-- 📈 **Progression :** Apprentissage constant en architecture SaaS scalable  
+- 💼 **Développeur Fullstack JavaScript** avec une forte orientation produit  
+- ⚙️ Expérience dans la conception d’applications **SaaS scalables**  
+- 🧩 Bonne maîtrise de l’architecture backend et des APIs sécurisées  
+- 🎯 Focus sur la **performance, UX et maintenabilité du code**  
 
 ---
 
-## 📈 Détails supplémentaires
+## 🚀 Ce que j’apporte à une équipe
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saynaro&theme=radical"/>
-</p>
+- Développement de features **end-to-end (Frontend + Backend)**  
+- Mise en place d’architectures propres et évolutives  
+- Optimisation des performances et de l’expérience utilisateur  
+- Collaboration efficace en environnement Agile  
+
+---
+
+## 📌 Actuellement
+
+- 🔭 Développement d’un **SaaS Task Manager** avec gestion d’abonnements  
+- 📚 Approfondissement en **scalabilité et architecture logicielle**  
+- 💡 Ouvert aux opportunités **CDI / Freelance immédiatement**  
 
 ---
 
