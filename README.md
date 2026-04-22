@@ -3,7 +3,7 @@
 ### 🚀 Développeur Fullstack | À la recherche de nouvelles opportunités
 📍 **Basé à Nice** <br>
 🚗 **Mobile sur :** Monaco, Antibes, Valbonne, Sophia Antipolis, Cagnes-sur-Mer <br>
-💼 **Disponible immédiatement :** CDI ou Freelance
+🟢 **Disponible immédiatement :** CDI ou Freelance
 
 ---
 
