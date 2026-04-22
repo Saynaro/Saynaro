@@ -29,12 +29,13 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, Database & DevOps
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔐 Sécurité & Intégration
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -45,7 +46,7 @@
 
 ## 📈 Mes Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&locale=fr" alt="Langages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&locale=fr" alt="Langages" height="180px" width="600px" />
 </p>
 
 ---
