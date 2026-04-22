@@ -46,11 +46,39 @@
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## 📊 GitHub Analytics & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_rank=true&layout=compact&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub&count_private=true" alt="Stats de Saynaro" height="165px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=donut&theme=radical&hide=dockerfile&custom_title=Langages%20Utilisés" alt="Langages" height="165px" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Stats" height="170px"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Top%20Languages" height="160px"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saynaro&theme=react-dark&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🧠 Development Insights
+
+- 🔥 **Consistency:** Active contributor with regular commits and long streaks  
+- 📦 **Private Work:** Includes private repositories in stats (real activity shown)  
+- 🛠 **Tech Focus:** Strong focus on Fullstack JavaScript ecosystem  
+- 📈 **Growth Mindset:** Continuous learning in scalable SaaS architecture  
+
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saynaro&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
