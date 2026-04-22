@@ -106,7 +106,7 @@ Site communautaire de guides de jeux avec une UX fluide et dynamique.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 ---
