@@ -1,29 +1,67 @@
-# 👋 Salut, moi c'est Saynaro Khalid ! 
+# 👋 Bonjour, moi c'est Saynaro Khalid
 
-### 🚀 Développeur Fullstack | À la recherche de nouvelles opportunités
-📍 **Basé à Nice** <br>
-🚗 **Mobile sur :** Monaco, Antibes, Valbonne, Sophia Antipolis, Cagnes-sur-Mer <br>
-🟢 **Disponible immédiatement :** CDI ou Freelance
+### 🚀 Développeur Fullstack JavaScript orienté SaaS
 
----
-
-## 🛠 Sur quoi je travaille en ce moment ?
-- 💻 **Projet Actuel :** Je développe un **SaaS Task Manager** (Gestionnaire de tâches ultra-performant) en utilisant la stack moderne для оптимизации продуктивности.
-- 🔭 Je perfectionne mes compétences en **Architecture logicielle** et en **SaaS Scalability**.
+📍 Basé à Nice  
+🚗 Mobile : Monaco, Antibes, Sophia Antipolis, Valbonne, Cagnes-sur-Mer  
+🟢 Disponible immédiatement (CDI / Freelance)
 
 ---
 
-## 💼 Projets Phares
+## 🚀 À propos de moi
 
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **SaaS Task Manager** | Plateforme de gestion de tâches avec abonnements и espaces collaboratifs. | `React`, `Prisma`, `PostgreSQL` |
-| **E-Commerce & Admin** | Boutique complète avec gestion des stocks, commandes и dashboard admin. | `Node.js`, `Express`, `JWT` |
-| **GAMEGUIDE** | Site communautaire de guides de jeux avec une UX fluide и dynamique. | `Vanilla JS`, `MariaDB`, `Node.js` |
+Développeur Fullstack spécialisé en JavaScript, je conçois des applications web modernes avec une forte orientation produit.
+
+Je m’intéresse particulièrement à :
+- la conception de **SaaS scalables**
+- la **performance et optimisation**
+- les **architectures backend propres et maintenables**
+
+👉 Mon objectif : construire des produits utiles, performants et pensés pour les utilisateurs.
 
 ---
 
-## 🛠 Mon Arsenal Technique
+## 🛠 Projet principal
+
+### 💻 SaaS Task Manager
+
+Application de gestion de tâches collaborative pensée pour la productivité et le travail en équipe.
+
+**Fonctionnalités :**
+- Espaces de travail (workspaces)
+- Système d’abonnement (SaaS ready)
+- Gestion avancée des tâches
+- Authentification sécurisée (JWT)
+
+**Stack :**
+`React` · `Node.js` · `Prisma` · `PostgreSQL`
+
+👉 Projet en cours d’amélioration (scalabilité & architecture)
+
+---
+
+## 💼 Autres projets
+
+### 🛒 E-Commerce & Admin Dashboard
+Plateforme e-commerce complète avec :
+- gestion des produits et stocks  
+- suivi des commandes  
+- dashboard administrateur  
+
+**Stack :**  
+`Node.js` · `Express` · `JWT`
+
+---
+
+### 🎮 GAMEGUIDE
+Site communautaire de guides de jeux avec une UX fluide et dynamique.
+
+**Stack :**  
+`JavaScript (Vanilla)` · `Node.js` · `MariaDB`
+
+---
+
+## 🧠 Compétences techniques
 
 ### 🎨 Frontend & Design
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -54,46 +92,35 @@
 
 ---
 
-## 📊 Activité & Performance GitHub
+
+## 🎯 Ce que j’apporte
+
+- 🔧 Développement **end-to-end** (backend → frontend)  
+- 🧩 Code **propre, structuré et maintenable**  
+- 🚀 Approche **orientée produit (UX + performance)**  
+- 🤝 Collaboration fluide en équipe  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&custom_title=Statistiques%20GitHub" height="160px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true" height="160px"/>
   <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="150px"/>
 </p>
 
+---
+
+## 📬 Contact
+
+💼 Ouvert aux opportunités en **Fullstack / Backend / Frontend**
+
+- LinkedIn : https://www.linkedin.com/in/khalid-sainaro  
+- Portfolio : https://saynaro.github.io/Portfolio/  
+- Email : khalid.cizdoev777@gmail.com  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true&langs_count=6&locale=fr" height="150px"/>
-</p>
-
----
-
-## 🧠 Profil Technique
-
-- 💼 **Développeur Fullstack JavaScript** avec une forte orientation produit  
-- ⚙️ Expérience dans la conception d’applications **SaaS scalables**  
-- 🧩 Bonne maîtrise de l’architecture backend и APIs sécurisées  
-- 🎯 Focus sur la **performance, UX et maintenabilité du code**  
-
----
-
-## 🚀 Ce que j’apporte à une équipe
-
-- **Développement End-to-End** : Capacité à livrer des fonctionnalités complètes du design DB au Frontend.  
-- **Clean Architecture** : Mise en place de structures de code propres, lisibles и évolutives.  
-- **Product Mindset** : Je ne code pas juste des features, je construis des solutions pour les utilisateurs.  
-- **Agilité** : Collaboration fluide и communication transparente au sein d'une équipe.  
-
----
-
-## 📧 Me contacter pour une opportunité
-Je suis ouvert aux discussions concernant des rôles de **Développeur Fullstack / Frontend / Backend**.
-
-- **LinkedIn:** [linkedin.com/in/khalid-sainaro](https://www.linkedin.com/in/khalid-sainaro)
-- **Portfolio:** [saynaro.github.io/Portfolio/](https://saynaro.github.io/Portfolio/)
-- **Email:** khalid.cizdoev777@gmail.com
-
----
-<p align="center">
-  <i>"Construire aujourd'hui les outils de demain."</i>
+  <i>Construire des produits utiles, performants et scalables.</i>
 </p>
