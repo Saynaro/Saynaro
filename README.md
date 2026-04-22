@@ -3,7 +3,9 @@
 ### 🚀 Développeur Fullstack JavaScript orienté SaaS
 
 📍 Basé à Nice  <br>
+
 🚗 Mobile : Monaco, Antibes, Sophia Antipolis, Valbonne, Cagnes-sur-Mer  <br>
+
 🟢 Disponible immédiatement (CDI / Freelance) <br>
 
 ---
