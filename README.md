@@ -117,7 +117,7 @@ Site communautaire de guides de jeux vidéo avec une UX fluide, des transitions 
 Ouvert aux opportunités en **Fullstack JavaScript (React / Node.js)**.
 
 - **LinkedIn** : https://www.linkedin.com/in/khalid-sainaro  
-- **Portfolio** : https://saynaro.github.io/Portfolio/  
+- **Portfolio** : https://khalidsainaro.site 
 - Email : khalid.cizdoev777@gmail.com  
 
 ---
