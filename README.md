@@ -1,6 +1,6 @@
 # 👋 Bonjour, c'est Sainaro Khalid
 
-### 🚀 Développeur Fullstack JavaScript orienté SaaS, Temps Réel & DevOps
+### 🚀 Développeur Fullstack React/Node.js & DevOps
 
 📍 Basé à Nice (06) <br>
 🚗 Mobile : Monaco, Nice, Antibes, Sophia Antipolis, Cannes, Cagnes-sur-Mer <br>
@@ -10,7 +10,7 @@
 
 ## 🚀 À propos de moi
 
-Développeur Fullstack JavaScript autonome et polyvalent, je conçois et déploie des applications web modernes, robustes et sur-mesure — **de la première ligne de code jusqu'à la mise en production (de A à Z)**.
+Développeur Fullstack JavaScript autonome et polyvalent, je conçois et déploie des applications web modernes, robustes et sur-mesure — **de la première ligne de code jusqu'à la mise en production**.
 
 Qu'il s'agisse de **plateformes SaaS**, d'**e-commerce**, de **tableaux de bord métier (dashboards)**, d'**applications web interactives** ou d'**APIs sécurisées**, je maîtrise l'ensemble du cycle de développement :
 
