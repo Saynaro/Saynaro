@@ -1,4 +1,4 @@
-# 👋 Bonjour, c'est Sainaro Khalid
+# 👋 Bonjour, moi c'est Sainaro Khalid
 
 ### 🚀 Développeur Fullstack   React/Node.js  &  DevOps
 
@@ -105,7 +105,7 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 
 ## 🎯 Ce que j’apporte à votre équipe
 
-- 🛠️ **Vision Produit de bout en bout** : Capacité à mener un SaaS de l'idée initiale à la production réelle (architecture, code, déploiement, conformité, UX).
+- 🛠️ **Vision Produit de bout en bout** : Capacité à mener un projet web ou SaaS de l'idée initiale à la production réelle (architecture, code, déploiement, conformité, UX).
 - 🧩 **Fiabilité & Robustesse** : Maîtrise des problématiques de concurrence, de sessions sécurisées (anti-CSRF/XSS) et de gestion d'erreurs en production.
 - ⚡ **Culture du Temps Réel** : Savoir architecturer des WebSockets propres sans fuite mémoire ni surcharge serveur.
 - 🔄 **Autonomie DevOps** : Capable de monter et maintenir une infrastructure conteneurisée sécurisée avec déploiements automatisés sans interruption de service.
@@ -126,4 +126,4 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 - 💼 **LinkedIn** : [linkedin.com/in/khalid-sainaro](https://www.linkedin.com/in/khalid-sainaro)
 - 📧 **Email** : [khalid.cizdoev777@gmail.com](mailto:khalid.cizdoev777@gmail.com)
 - 🌐 **Portfolio** : [khalidsainaro.site](https://khalidsainaro.site)
-- **Projet** : [gestart.fr](https://gestart.fr)
+- 🚀 **Projet en Production** : [gestart.fr](https://gestart.fr)
