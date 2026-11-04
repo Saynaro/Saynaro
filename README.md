@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Sainaro Khalid
+# 👋 Bonjour, c'est Sainaro Khalid
 
 ### 🚀 Développeur Fullstack JavaScript orienté SaaS, Temps Réel & DevOps
 
