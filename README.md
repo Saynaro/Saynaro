@@ -114,7 +114,7 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=Saynaro&layout=compact&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saynaro&theme=radical" height="165px"/>
 </p>
 
 ---
