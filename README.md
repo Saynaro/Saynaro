@@ -113,7 +113,7 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.salesp07.workers.dev/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true" height="160px"/>
   <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
 </p>
 
@@ -121,7 +121,7 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 
 ## 📬 Me Contacter
 
-- 💼 **LinkedIn** : [linkedin.com/in/sainaro-khalid](https://www.linkedin.com/in/sainaro-khalid)
-- 📧 **Email** : [khalid.sainaro@gmail.com](mailto:khalid.sainaro@gmail.com)
+- 💼 **LinkedIn** : [linkedin.com/in/khalid-sainaro](https://www.linkedin.com/in/khalid-sainaro)
+- 📧 **Email** : [khalid.cizdoev777@gmail.com](mailto:khalid.cizdoev777@gmail.com)
 - 🌐 **Portfolio** : [khalidsainaro.site](https://khalidsainaro.site)
 - **Projet** : [gestart.fr](https://gestart.fr)
