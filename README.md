@@ -10,15 +10,17 @@
 
 ## 🚀 À propos de moi
 
-Développeur Fullstack passionné par l'écosystème JavaScript moderne, je conçois des applications web et SaaS robustes, sécurisées et orientées produit.
+Développeur Fullstack JavaScript autonome et polyvalent, je conçois et déploie des applications web modernes, robustes et sur-mesure — **de la première ligne de code jusqu'à la mise en production (de A à Z)**.
 
-Mon expertise s'articule autour de :
-- 🏢 **SaaS B2B Multi-tenant** : Logique métier complexe, conformité légale (Facturation électronique 2026), facturation récurrente Stripe.
-- ⚡ **Temps Réel & Omnicanalité** : WebSockets (**Socket.IO**), messagerie unifiée (**SMS Twilio, WhatsApp Business, Emailing via Resend & IMAP/SMTP**).
-- 📱 **Mobile & PWA First** : Expérience fluide hors-ligne / PWA, signature électronique tactile, gestion de planning interactif.
-- 🛠 **DevOps & Architecture** : Conteneurisation (**Docker & Compose**), orchestration VPS (**Hetzner**), cache & rate-limiting distribué (**Redis**), pipelines **CI/CD automatisés (GitHub Actions)**.
+Qu'il s'agisse de **plateformes SaaS**, d'**e-commerce**, de **tableaux de bord métier (dashboards)**, d'**applications web interactives** ou d'**APIs sécurisées**, je maîtrise l'ensemble du cycle de développement :
 
-👉 **Mon objectif** : Transformer des besoins métiers complexes en outils intuitifs, performants et à haute valeur ajoutée.
+- 🎨 **Frontend Réactif & Mobile-First** : Interfaces modernes, fluides et ergonomiques (**React, Vite, PWA, TailwindCSS, transitions animées**).
+- ⚙️ **Backend Robuste & APIs** : Architectures modulaires, modélisation de bases de données relationnelles et NoSQL (**Node.js, Express, PostgreSQL, Prisma, Redis**).
+- ⚡ **Temps Réel & Omnicanalité** : Synchronisation instantanée des données (**Socket.IO**), notifications push, intégration de messageries tierces (**SMS Twilio, WhatsApp API, Emailing Resend/SMTP**).
+- 🔐 **Sécurité & Authentification** : Protection anti-CSRF/XSS, sessions sécurisées (**JWT HttpOnly, OAuth2**), contrôle d'accès par rôles (RBAC) et Rate Limiting.
+- 🚀 **DevOps & Déploiement Clé en Main** : Conteneurisation (**Docker & Docker Compose**), gestion de serveurs VPS (**Hetzner, Nginx, SSL**), cloud (**Vercel, Render**) et automatisation **CI/CD (GitHub Actions)**.
+
+👉 **Mon approche** : Prendre en charge un projet dans sa globalité pour livrer un produit fini, performant, sécurisé et pensé pour l'utilisateur final.
 
 ---
 
