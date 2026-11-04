@@ -113,8 +113,11 @@ Boutique en ligne avec catalogue dynamique, panier persistant, suivi des stocks 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.salesp07.workers.dev/api?username=Saynaro&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saynaro&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saynaro&theme=radical&hide_border=true" height="165px"/>
 </p>
 
 ---
