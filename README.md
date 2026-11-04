@@ -1,6 +1,6 @@
 # 👋 Bonjour, c'est Sainaro Khalid
 
-### 🚀 Développeur Fullstack React/Node.js & DevOps
+### 🚀 Développeur Fullstack   React/Node.js  &  DevOps
 
 📍 Basé à Nice (06) <br>
 🚗 Mobile : Monaco, Nice, Antibes, Sophia Antipolis, Cannes, Cagnes-sur-Mer <br>
